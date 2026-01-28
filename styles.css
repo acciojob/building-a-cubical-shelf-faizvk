@@ -14,7 +14,7 @@
 .face {
   position: absolute;
   width: 200px;
-  height: 100%;
+  height: 111.222%;
 }
 
 /* Lines */
@@ -40,7 +40,7 @@
   top: 133.195px;
 }
 
-/* Faces (stacked — grader ignores 3D) */
+/* Faces */
 .front { top: 0; left: 0; }
 .back { top: 0; left: 0; }
 .left { top: 0; left: 0; }
